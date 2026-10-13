@@ -1,4 +1,24 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+
+[Live Demo](https://dimon2202.github.io/2048-game/) · [Repository](https://github.com/dimon2202/2048-game)
+
+A browser-based clone of the classic 2048 puzzle game built with vanilla JavaScript, HTML, and CSS.
+
+## Technologies
+- HTML5
+- CSS3 / Sass
+- Vanilla JavaScript
+- Parcel
+
+## Features
+- Interactive gameplay
+- Keyboard controls
+- Score tracking
+- Win and game-over detection
+
+## Getting Started
+
+```bash
+npm install
+npm start
+```
